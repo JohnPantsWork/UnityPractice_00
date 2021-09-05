@@ -58,3 +58,6 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+UnityPractice_00/Library
+UnityPractice_00/Temp
+UnityPractice_00/Logs
