@@ -1,4 +1,4 @@
-# UnityPractice_00
+# UnityPractice_00_desertKnight
 橫向卷軸動作遊戲，透過Unity 與 基礎c#建置而成
 
 1. 玩家可以透過鍵盤控制角色跳躍、防禦、移動與攻擊。
